@@ -1,5 +1,0 @@
-D:/CubeMX/250805_01_mini_prj/Core/Src/joystick.c:9:17:read_adc_polling	48	static
-D:/CubeMX/250805_01_mini_prj/Core/Src/joystick.c:24:6:Joystick_Init	24	static
-D:/CubeMX/250805_01_mini_prj/Core/Src/joystick.c:43:17:Joystick_Read	32	static
-D:/CubeMX/250805_01_mini_prj/Core/Src/joystick.c:59:15:Joystick_GetButton	24	static
-D:/CubeMX/250805_01_mini_prj/Core/Src/joystick.c:128:6:Joystick_Track	24	static
