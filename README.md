@@ -42,3 +42,9 @@ FSM을 이용해 각각의 상태에 맞는 로직을 수행합니다.
   <img width="360" src="https://github.com/user-attachments/assets/97f0ca2d-f413-44f4-899b-a98a71d73fb8" />
   <img width="360" src="https://github.com/user-attachments/assets/922a940e-40a4-4a5e-b194-ac427ee35826" />
 </p>
+
+## 담당 업무
+| 이름 | 담당 |
+|------|------|
+| **문두르** | 메인 프레임워크 / 게임 로직 구현 / LCD1602 픽셀 단위 제어 구현 |
+| **강*구** | LCD1602 라이브러리 구현 / 조이스틱 / 부저 |
