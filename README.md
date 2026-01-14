@@ -19,28 +19,28 @@ FSM을 이용해 각각의 상태에 맞는 로직을 수행합니다.
   - 80 (x) X 16 (y) 크기의 월드 좌표를 8 bit X 160 ea 크기의 배열에 변환 및 저장
 
 <p align="left">
-  <img width="180" src="https://github.com/user-attachments/assets/4ba2621b-c5f5-4e15-9f74-b2d555e0311a" />
-  <img width="540" src="https://github.com/user-attachments/assets/04be24d7-be22-4a9b-98a7-8451171889d7" />
+  <img width="180" src="docs/images/coretech_001.png" />
+  <img width="540" src="docs/images/coretech_002.png" />
 </p>
 
   - 8 bit X 160 ea 크기의 배열에 저장된 값을 활용해 2 (row) X 16 (col) 공간에 그려질 커스텀 문자를 생성하고 출력
 
-<img width="720" src="https://github.com/user-attachments/assets/6ae30a90-a909-4695-afb1-6eeb388637ae" /><br>
+<img width="720" src="docs/images/coretech_003.png" /><br>
 
 - ### UART 통신 활용 PvP 환경 구현
 
   - 총알 전송, 총알 충돌, 상대 대기 상태, 게임 종료 신호를 UART 로 송수신하여 각각의 동작을 수행
 
 <p align="left">
-  <img width="360" src="https://github.com/user-attachments/assets/6b80b644-94f5-4430-84ce-8cff47e98fda" />
-  <img width="360" src="https://github.com/user-attachments/assets/7f8f2664-70b3-4579-b1b1-fdc5e7362f85" />
+  <img width="360" src="docs/images/coretech_004.png" />
+  <img width="360" src="docs/images/coretech_005.png" />
 </p>
 
 - ### FSM / AABB 활용
 
 <p align="left">
-  <img width="360" src="https://github.com/user-attachments/assets/97f0ca2d-f413-44f4-899b-a98a71d73fb8" />
-  <img width="360" src="https://github.com/user-attachments/assets/922a940e-40a4-4a5e-b194-ac427ee35826" />
+  <img width="360" src="docs/images/coretech_006.png" />
+  <img width="360" src="docs/images/coretech_007.png" />
 </p>
 
 ## 담당 업무
